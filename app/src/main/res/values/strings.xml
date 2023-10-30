@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hstock</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="action_trending" type="id"></string>
+    <string name="action_search" type="id"></string>
+    <string name="action_notify" type="id"></string>
+    <string name="action_personal" type="id"></string>
+
+    <string name="sign_up">Already have an account? <u><b> Login</b></u></string>
+
+
+</resources>
